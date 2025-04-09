@@ -1,1 +1,1 @@
-# social_media_group_project
+# Proejkt zespołowy - Social media
